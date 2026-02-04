@@ -5,7 +5,7 @@
   "description": "DTR Signatory Injector - Inject Head Officer name into DTR MHTML and export to PDF",
   "repository": {
     "type": "git",
-    "url": "https://github.com/YOUR_USERNAME/dtr-signatory-injector.git"
+    "url": "https://github.com/Bootloader1z/dtr-signatory-injector.git"
   },
   "author": "",
   "license": "MIT"
